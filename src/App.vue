@@ -1,3 +1,3 @@
 <template>
-  <Editor />
+  <router-view />
 </template>
