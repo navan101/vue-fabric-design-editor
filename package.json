@@ -14,7 +14,7 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
-    "@navasia/editor": "^1.0.6",
+    "@navasia/editor": "^1.0.8",
     "vue": "^3.4.29",
     "vue-router": "^4.3.3"
   },

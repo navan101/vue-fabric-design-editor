@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@navasia/editor': ^1.0.6
+  '@navasia/editor': ^1.0.8
   '@rushstack/eslint-patch': ^1.8.0
   '@tsconfig/node20': ^20.1.4
   '@types/node': ^20.14.5
@@ -21,7 +21,7 @@ specifiers:
   vue-tsc: ^2.0.21
 
 dependencies:
-  '@navasia/editor': 1.0.6_typescript@5.4.5
+  '@navasia/editor': 1.0.8_typescript@5.4.5
   vue: 3.5.6_typescript@5.4.5
   vue-router: 4.4.5_vue@3.5.6
 
@@ -355,8 +355,8 @@ packages:
     dev: false
     optional: true
 
-  /@navasia/editor/1.0.6_typescript@5.4.5:
-    resolution: {integrity: sha512-pEjNioV0o6qWNsTJfXYKqLz7AxFMt8UrMwZkndKnwuhk8cmoucrHyX/T3vc1J6dDQRzMZUmwDYyzYxkLne+yww==}
+  /@navasia/editor/1.0.8_typescript@5.4.5:
+    resolution: {integrity: sha512-EaOM7wyLMjIhcR5cSGBIG4nxAnh2KDaVvjttRqZO5g5rhMBd83YVcH69aTKRmOhgC8KSTXomWElpx92tAdAE4A==}
     dependencies:
       '@unocss/reset': 0.62.3
       '@vueuse/core': 11.1.0_vue@3.5.6
